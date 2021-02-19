@@ -1,7 +1,6 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -49,5 +48,14 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranuj3122/React-Assignment---Paint-App-Colour-Picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kranuj3122/React-Assignment---Paint-App-Colour-Picker/issues"
+  },
+  "homepage": "https://github.com/kranuj3122/React-Assignment---Paint-App-Colour-Picker#readme",
+  "description": ""
 }
